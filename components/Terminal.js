@@ -97,7 +97,7 @@ const COMMANDS = {
   contact: () => [
     'Email:    thebhuone@gmail.com',
     'GitHub:   github.com/thebhuone',
-    'LinkedIn: linkedin.com/in/bhuone99',
+    'LinkedIn: linkedin.com/in/bhuone99/',
     'Location: Nepal | Ready to relocate',
   ],
   status: () => [
